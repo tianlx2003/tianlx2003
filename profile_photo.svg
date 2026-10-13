@@ -8,6 +8,6 @@
   <circle cx="200" cy="200" r="195" fill="#f0e3d2" stroke="rgba(255,255,255,0.8)" stroke-width="6" />
   <!-- 你的海滩照片（已自动居中人像） -->
   <g clip-path="url(#avatar-clip)">
-    <image xlink:href="图片.jpg" href="图片.jpg" x="-150" y="-50" width="700" height="466" preserveAspectRatio="xMidYMid slice" />
+    <image xlink:href="phto.jpg" href="photo.jpg" x="-150" y="-50" width="700" height="466" preserveAspectRatio="xMidYMid slice" />
   </g>
 </svg>
